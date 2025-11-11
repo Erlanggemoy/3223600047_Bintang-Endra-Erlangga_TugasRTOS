@@ -92,6 +92,10 @@ Gunakan pin sesuai definisi di dalam kode:
 
 ---
 
+## Video Demo
+
+https://github.com/user-attachments/assets/e7388e71-107d-412b-8382-089ab1d4c1fb
+
 ## 🧩 File JSON Wokwi (diagram konfigurasi)
 Salin isi JSON berikut ke tab `diagram.json` di Wokwi agar simulasi berjalan:
 
