@@ -6,10 +6,10 @@ Langkah Percobaan
 1. Persiapan Alat dan Bahan
 
    - ESP32-S3 Board
-   - Sensor (misalnya: Potensiometer, DHT11, atau sensor cahaya)
-   - Aktuator (misalnya: LED, Servo, atau Buzzer)
-   - Breadboard dan kabel jumper
-   - Arduino IDE atau VSCode dengan PlatformIO
+   - Sensor 
+   - Aktuator
+   - VSCode dengan PlatformIO
+   - Wokwi simulator
 
 2. Tujuan Percobaan
 
